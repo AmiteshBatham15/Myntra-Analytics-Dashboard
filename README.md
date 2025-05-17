@@ -22,7 +22,7 @@
 ![Screenshot 2025-05-17 134118](https://github.com/user-attachments/assets/09d7a1c9-d828-4bcd-9580-2ebd209fdd06)
   
 ## Project Insight
-1.Browsing & Engagement Overview
+** 1.Browsing & Engagement Overview
 
 * The average browsing time per customer is 30.48 minutes, reflecting high engagement.
 

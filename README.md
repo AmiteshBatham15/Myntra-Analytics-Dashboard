@@ -22,7 +22,7 @@
 ![Screenshot 2025-05-17 134118](https://github.com/user-attachments/assets/09d7a1c9-d828-4bcd-9580-2ebd209fdd06)
 
 ## Dashboard Interaction
-
+- <a href="https://github.com/AmiteshBatham15/Myntra-Analytics-Dashboard/blob/main/Myntra%20Analytics%20Dashboard.pbix">Dashboard Interaction<a/>
   
 ## Project Insight
 **1.Browsing & Engagement Overview**

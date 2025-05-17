@@ -44,7 +44,7 @@
 
 * Delhi leads in city-wise sales with 5.2M, followed by Mumbai (5.0M) and Bangalore (4.9M).
 
- *Chennai ranks lowest among top cities with 4.7M in sales.
+* Chennai ranks lowest among top cities with 4.7M in sales.
 
 **5.Customer Demographics**
 
@@ -69,5 +69,10 @@
 * Highest loyalty points earned in December (69K) and June (66K).
 
 * Lower points were recorded in January (55K) and July (55K), showing variance in user loyalty activity across months.
+
+## Final Conclusion
+The Myntra Analytics Dashboard provides a comprehensive overview of key business metrics, enabling data-driven decision-making. By visualizing customer behavior, product performance, sales trends, and loyalty engagement, the dashboard addresses core business challenges like understanding user preferences, reducing cart abandonment, and improving customer retention. This project demonstrates the power of Power BI in transforming raw data into actionable insights for strategic growth in the e-commerce domain.
+
+  
 
 

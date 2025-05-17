@@ -17,3 +17,6 @@
 * How do loyalty points earned vary by month, and what does this indicate about customer retention?
 * Which cities are the most profitable, and where is performance lagging?
 * How long do users typically browse, and what does this tell us about user behavior and interest?
+
+## Dashboard Interaction
+- 

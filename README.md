@@ -6,7 +6,7 @@
 * To improve conversion rates and reduce operational costs
 
 ## Dataset used 
-- <a href="https://github.com/AmiteshBatham15/Myntra-Analytics-Dashboard/blob/main/Myntra_Analytics_Dataset.csv">Dataset</a>
+- <a href="https://github.com/AmiteshBatham15/Myntra-Analytics-Dashboard/blob/main/Myntra_Analytics_Dataset.csv">Dataset</a> 
 
 ## Questions (KPIs)
 * What is the total sales amount, and how does it vary across months, cities, and product categories?

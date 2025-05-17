@@ -19,5 +19,55 @@
 * How long do users typically browse, and what does this tell us about user behavior and interest?
 
 ## Dashboard Interaction
-- ![Screenshot 2025-05-17 134118](https://github.com/user-attachments/assets/09d7a1c9-d828-4bcd-9580-2ebd209fdd06)
+![Screenshot 2025-05-17 134118](https://github.com/user-attachments/assets/09d7a1c9-d828-4bcd-9580-2ebd209fdd06)
+  
+## Project Insight
+1.Browsing & Engagement Overview
+
+* The average browsing time per customer is 30.48 minutes, reflecting high engagement.
+
+* A total of 741K loyalty points have been accumulated by customers, indicating active participation in reward programs.
+
+Sales Performance Summary
+
+The total sales amount is 24.58M, with a cart abandonment rate of 49.53%, highlighting a significant drop-off before purchase.
+
+The average order value (AOV) is 8.19K, providing insight into per-order revenue.
+
+Monthly Sales Trends
+
+December (2.30M) and February (2.17M) recorded the highest monthly sales.
+
+A noticeable dip in sales occurred in March (1.81M) and August (1.84M), possibly due to seasonal factors.
+
+Top Performing Cities
+
+Delhi leads in city-wise sales with 5.2M, followed by Mumbai (5.0M) and Bangalore (4.9M).
+
+Chennai ranks lowest among top cities with 4.7M in sales.
+
+Customer Demographics
+
+Majority of customers fall in the 35–44 age group (712 customers), followed closely by 25–34 and 45–54 segments.
+
+Gender distribution is nearly equal, with Females (51%) slightly more than Males (49%).
+
+Sales by Discount Analysis
+
+Sales distribution is spread across discount ranges, with higher concentration around 5%–15% discount brackets.
+
+No significant spike at extreme discounts, suggesting moderate discounts perform best.
+
+Top Products & Categories
+
+Product ID PRO0862 achieved the highest sales (119K), followed by PRO0499 (85K) and PRO0828 (73K).
+
+Home Decor and Apparel are the top categories, both generating 5.09M in sales, followed by Beauty (5.05M).
+
+Loyalty Trends by Month
+
+Highest loyalty points earned in December (69K) and June (66K).
+
+Lower points were recorded in January (55K) and July (55K), showing variance in user loyalty activity across months.
+
 

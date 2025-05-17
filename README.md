@@ -18,7 +18,7 @@
 * Which cities are the most profitable, and where is performance lagging?
 * How long do users typically browse, and what does this tell us about user behavior and interest?
 
-* Dashboard Interaction
+**Dashboard Interaction**
 -  <a href="https://github.com/user-attachments/assets/09d7a1c9-d828-4bcd-9580-2ebd209fdd06">Dashboard</a>
 
 ## Dashboard Image

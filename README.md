@@ -4,3 +4,5 @@
 * To optimize supply chain and inventory management
 * To personalize marketing and user experiences
 * To improve conversion rates and reduce operational costs
+
+## Dataset used 
